@@ -29,7 +29,7 @@ Programlamada sınıfların niteliklerini "değişkenler" , davranışlarını d
 
 # Sınıf Tanımlama
 
-(https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/oop/uml-class-diagram/figures/c1.jpg)
+![alt text](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/oop/uml-class-diagram/figures/c1.jpg)
 
 Şekilde görüldüğü üzere bir dikdörtgen 3 parçaya bölünerek, ilk parçasına "Sınıf Adını", ikinci parçaya "Sınıfın Değişkenleri" , son parçaya da "Sınıf Metotları" yazılır.
 
